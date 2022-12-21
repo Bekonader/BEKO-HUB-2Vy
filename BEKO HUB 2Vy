@@ -1,0 +1,3 @@
+--[[DEADSIDE#1675]]--
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bekonader/BEKO-HUB-2V/main/BEKO%20HUB%202V"))()
